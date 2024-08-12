@@ -1,0 +1,35 @@
+{
+    "candidates": [
+      {
+        "id":1,
+        "title":"Vidal Alonso",
+        "age":30,
+        "category":"Big Data",
+        "description": "Especialista en Big Data con mas de 10 años de experiencia y casi 2 decadas siendo docente",
+        "thumbnail":"https://i1.rgstatic.net/ii/profile.image/272444489465912-1441967236842_Q512/Vidal_Alonso.jpg",
+        "images":[
+
+        ]
+      },
+      {
+        "id":2,
+        "title":"Marcelo Vallejo",
+        "age":60,
+        "category":"Contabilidad",
+        "description": "Experto en contabilidad con un alto historial probado en varias corporaciones",
+        "thumbnail":"https://portalcientifico.upsa.es/img/uploaded/7AFC85FEA45CCAF1579DCBBA1227B76B.jpg",
+        "images":[
+        ]
+      },
+      {
+        "id":3,
+        "title":"Berjo Gallinas",
+        "age":50,
+        "category":"Data Manager",
+        "description": "Lider en la gestion de datos con una amplia experiencia en la industria",
+        "thumbnail":"https://portalcientifico.upsa.es/img/uploaded/CD80CA2A16C87E6F72EBBC35CBF23614.png",
+        "images":[
+        ]
+      }
+    ]
+  }
